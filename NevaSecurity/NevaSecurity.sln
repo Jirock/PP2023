@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NevaSecurity", "NevaSecurity\NevaSecurity.csproj", "{9080E608-5D27-49A9-B820-D0964F86DED7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9080E608-5D27-49A9-B820-D0964F86DED7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9080E608-5D27-49A9-B820-D0964F86DED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9080E608-5D27-49A9-B820-D0964F86DED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9080E608-5D27-49A9-B820-D0964F86DED7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80B5A58A-D2A3-446D-885A-AEB3542785B3}
+	EndGlobalSection
+EndGlobal
